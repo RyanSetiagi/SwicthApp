@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725279514630",
+    "firebase_url": "https://swicthapp-afcc0.firebaseio.com",
+    "project_id": "swicthapp-afcc0",
+    "storage_bucket": "swicthapp-afcc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725279514630:android:4fb021bd70465b0d",
+        "android_client_info": {
+          "package_name": "com.example.ryansetiagi.swicthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725279514630-g2j2c9sctqfb512uemisgrdo0odgakri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ryansetiagi.swicthapp",
+            "certificate_hash": "5e3d3c028e208664651ebca33a122fd580187cd4"
+          }
+        },
+        {
+          "client_id": "725279514630-07kp14rqcmjrk6vfiksqo4qonmrkh5vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3R7-efful8SI_v3zYSq6gL_3JEgB__U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725279514630-07kp14rqcmjrk6vfiksqo4qonmrkh5vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
